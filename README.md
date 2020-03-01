@@ -1,5 +1,5 @@
-# Flow-Computation-and-Pattern-Searching
-Flow Computation and Pattern Searching in Temporal Networks
+# Flow Computation in Temporal Networks
+Flow Computation in Temporal Networks
 
 
 Chrysanthi Kosyfaki, 
