@@ -15,7 +15,7 @@ Instructions for compiling and running the code
 2) run make on your terminal to compile the code
 
 3) To use the code, you will need a directed graph file in the following format:
-* Item 1 numberofvertices
+numberofvertices
 src1 outdegree
 src1 dest1 numinteractions time1 flow1 time2 flow2 ...
 src1 dest2 numinteractions time1 flow1 time2 flow2 ...
