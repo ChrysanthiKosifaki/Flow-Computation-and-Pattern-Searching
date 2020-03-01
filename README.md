@@ -64,8 +64,11 @@ c) The following algorithms are run on the resulting DAG:
 - LP after preprocessing
 - Graph simplification and then LP after preprocessing 
 
-Example:make
-        ./computeflowsingle graph.txt 1
+Example:
+
+make
+
+./computeflowsingle graph.txt 1
 
 
 
