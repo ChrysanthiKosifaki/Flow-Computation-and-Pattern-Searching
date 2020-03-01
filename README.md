@@ -31,6 +31,8 @@ src1 dest2 numinteractions time1 flow1 time2 flow2 ...
 
 
 ...
+
+
 src2 outdegree
 
 
@@ -40,12 +42,22 @@ src2 dest1 numinteractions time1 flow1 time2 flow2 ...
 src2 dest2 numinteractions time1 flow1 time2 flow2 ...
 ...
 
+
+
 An example graph file (graph.txt) is given in this distribution
 
 4) Runing ./computeflowsingle  <graph_filename> <vertex-id> does the following:
+ 
+ 
 a) the graph in graph_filename is read into memory
+
+
 b) all paths from source=vertex-id to destination=vertex-id having length at most 4 are found and merged to form a directed acyclic graph (DAG). 
+
+
 c) The following algorithms are run on the resulting DAG:
+
+
 - the greedy algorithm
 - LP
 - A preprocessing algorithm that removes irrelevant interactions, etc.
