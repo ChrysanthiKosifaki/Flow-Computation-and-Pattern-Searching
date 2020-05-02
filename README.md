@@ -1,11 +1,6 @@
 # Flow Computation in Temporal Networks
 Flow Computation in Temporal Networks
 
-
-Chrysanthi Kosyfaki, 
- PhD Candidate,
- University of Ioannina - Department of Computer Science and Engineering
-
 Instructions for compiling and running the code
 
 1) Download lplib version 5.5 from https://sourceforge.net/projects/lpsolve/. You have to add to the same directory as this code 
