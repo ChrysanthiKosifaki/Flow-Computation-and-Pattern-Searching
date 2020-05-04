@@ -1,5 +1,4 @@
-/*Chrysanthi Kosyfaki - PhD Candidate
- University of Ioannina - Department of Computer Science and Engineering*/
+
 
 #include "computeflow.h"
 
