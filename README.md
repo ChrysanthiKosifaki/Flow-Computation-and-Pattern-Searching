@@ -1,5 +1,5 @@
-# Flow Computation in Temporal Networks
-Flow Computation in Temporal Networks
+# Flow Computation in Temporal Interaction Networks
+Flow Computation in Temporal Interaction Networks
 
 Instructions for compiling and running the code
 
