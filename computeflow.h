@@ -1,5 +1,5 @@
 
-
+/* Chrysanthi Kosyfaki, PhD Candidate, University of Ioannina, Greece */
 
 #ifndef __COMPFLOW
 #define __COMPFLOW
